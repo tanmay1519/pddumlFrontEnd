@@ -1,0 +1,45 @@
+.Form{
+    height:auto;
+    width: 90%;
+    background-color: aliceblue;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(40, 224, 68);
+    padding: 2%;
+    margin: 2% ;
+    border-radius: 5%;
+    text-overflow:clip;
+}
+.Cam{
+    background-color: aliceblue;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(40, 224, 68);
+    padding: 1%;
+    margin: 2% ;
+    border-radius: 5%;
+    text-overflow:clip;
+
+}
+.Tog{
+    background-color: aliceblue;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(40, 224, 68);
+    padding: 1%;
+    margin: 1% ;
+    border-radius: 5%;
+    text-overflow:clip;
+
+}
+
+button{
+    padding-top:25 ;
+    padding-bottom: 25;
+    padding-left: 40;
+    padding-right: 40;
+    background-color: gray;
+    color: black;
+    font-size: medium;
+    font-weight: bolder;
+}
